@@ -10,7 +10,7 @@ The second advantage is that a queue can buffer messages between systems so that
 The third advantage is that unexpected traffic will not cause unnecessary load on a system. If one system is limited in the speed with thich it can process messages, again, the messages will simply stack up until they are processed.
 
 ## Using AWS
-* [Getting started with AWS](GetStartedWithAws).
+* [Getting started with AWS](https://aws.amazon.com/getting-started/).
 
 ## Using the sample app
 The project has an `app.config` file where you should place the various bits of information that AWS needs
