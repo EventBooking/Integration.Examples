@@ -20,7 +20,7 @@ The third advantage is that unexpected traffic will not cause unnecessary load o
 
 ## Using AWS
 
-* [Getting started with AWS](GetStartedWithAws).
+* [Getting started with AWS](https://aws.amazon.com/getting-started/).
 
 ## The `SqsExample` app
 
